@@ -1,6 +1,5 @@
-Hello from A
-Hello from B
-Hello Git
-This is my first edit in VS Code
 Developer line 1
 Developer line 2
+Main update
+Hello Git
+I did the edit on Vs Code
