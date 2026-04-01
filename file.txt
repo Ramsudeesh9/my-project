@@ -7,4 +7,5 @@ Main update
 Feature line 1
 Updated Git
 Third edit on VS Code
-
+Feature line 2
+Updated both Feature 1 and Feature 2
